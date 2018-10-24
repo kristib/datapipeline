@@ -1,0 +1,194 @@
+5  -  As companies embrace AI, a shortage of Machine Learning and AI specialists opens up
+5  -  Defining Target Machines — How to Create a Compiler part 5b/5 — Data oriented programming
+5  -  Meow hash - a non-cryptographic hash capable of 16 bytes per cycle throughput on modern CPUs
+5  -  Microservice Architecture at Medium
+5  -  Practical TLA+ Now Available (authored by Hillel Wayne)
+5  -  Tackling Lost Updates Problem In Database Using Better Isolation Level
+5  -  The Early History Of Smalltalk
+5  -  Zygomys – An embedded scripting language for Go
+4  -  "Stable Fluids" by Dan Piponi [PWLConf 2018]
+4  -  A Boolean Circuit for SHA-256
+4  -  OpenSSH 7.9 released October 19, 2018
+4  -  Send endless amounts of ssh banner to ssh bots
+4  -  Stop building websites with infinite scroll!
+4  -  Why you should use SQL CTEs
+4  -  Zero-day in popular jQuery plugin actively exploited for at least three years
+4  -  redis 5.0 is released
+3  -  10 Basic Tips on Working Fast in UNIX or Linux Terminal
+3  -  A guide to understanding the CSS Box Model – Bashir Hamza – Medium
+3  -  Angular 7.0 is here
+3  -  Automatically update docker containers
+3  -  Building Modular Redux Applications
+3  -  Building a Simple Neural Network
+3  -  C++ Connect with Database (Bank project)
+3  -  CLI for checking Github status
+3  -  Change your terminal’s background color dynamically using escape sequences
+3  -  Create a filtering on nginx with dynamic linked function.
+3  -  D-Link routers - full takeover
+3  -  Detect Computer, Mobile, Tablet using Nodejs ... Check it out ...
+3  -  Dictionary In Depth - Python Programming
+3  -  Elegant A/B Tests
+3  -  Empty slice vs nil slice in GoLang
+3  -  First-Class Automatic Differentiation in Swift: A Manifesto
+3  -  Fizzbuzz in too much detail
+3  -  For those who needs a great tool for generating dummy data!
+3  -  GOTO 2017 • How to Break the Rules • Dan North
+3  -  Getting User Input in Python
+3  -  GitHub Octoverse 2018
+3  -  Has anyone heard of this? - Haxe - The Cross-platform Toolkit
+3  -  History of JavaScript and Future of JavaScript - Evolution
+3  -  Hold Engineers Accountable By Giving Them Autonomy – Kenneth Jiang – Medium
+3  -  INTERESTING FACTS ABOUT PROGRAMMING
+3  -  Introducing the XYO Archivist SDK!
+3  -  Lessons learned from creating a rich-text editor with real-time collaboration
+3  -  Let’s talk about PAKE
+3  -  Local Netlify service emulation
+3  -  Microsoft’s problem isn’t how often it updates Windows—it’s how it develops it
+3  -  Official launch: To celebrate Diwali, Indorse is organizing a unique online coding tournament for all Indian coders!
+3  -  OpenGenus Study: What do you look at in a GitHub repository?
+3  -  Pair Programming anti-patterns [Video]
+3  -  Run Perl in the browser with WebPerl
+3  -  Sherwood Architecture, a 64-Bit RISC based CPU, the first version was released recently
+3  -  Solving Russian Calendar Problems in Haskell
+3  -  The Right Idea Becomes the Wrong Idea Over Time
+3  -  The abomination of microservices
+3  -  Today List: 24 hours todo list for Slack
+3  -  Tuples In Depth - Python Programming
+3  -  Variance - OO &amp; FP Collision
+3  -  Why I love working with family people
+3  -  python3 print function (for beginner and intermediate python programmers)| Python 3.6
+2  -  "Perfect is the Enemy of the Good" is a False Dichotomy
+2  -  "XY Problem" in the Wild.
+2  -  3factor apps: a pattern for fast iteration, resilience and high scalability
+2  -  4 reasons why you should use React Native for your next mobile app project
+2  -  A Simple Chatbot Using RL3 and Python
+2  -  A Static Verification Framework for Message Passing in Go using Behavioural Types
+2  -  A quick intro to Dependency Injection: what it is, and when to use it
+2  -  Alda: a music composition language with a functional backbone
+2  -  An Introduction to Moving from PHP to Node (with sample code)
+2  -  An analysis on the revoking mechanisms for JSON Web Tokens
+2  -  B tree directory entry implementation in XV6 • r/learnprogramming
+2  -  BOLT: A Practical Binary Optimizer for Data Centers and Beyond [pdf]
+2  -  Bad Habits Developers Should Fix
+2  -  Best resources for software engineering – Fantageek – Medium
+2  -  Bill Gates' tribute to his friend Paul Allen
+2  -  Blockchain Developer Fellowship
+2  -  Breaking Azure Functions with Too Many Connections
+2  -  Building a LibreOffice Development Team
+2  -  Building a future of cloud engineering
+2  -  Building an IMDB Top 250 Clone with Pandas
+2  -  Category Theory for Programmers by Bartosz Milewski is now available in hardcover!
+2  -  Convert OutputStream to String
+2  -  Convert object array to string array
+2  -  Create a MySQL Server with Docker
+2  -  Create a Stunning Calculator Using HTML, CSS and JavaScript.
+2  -  Creating a Sudoku Solver Algorithm
+2  -  Eclipse 4.10 (due in 2 months) will feature full JDK 11 support
+2  -  EmoPy: An Open Source machine learning toolkit for emotional expression
+2  -  Enjoying High-Res Graphics on a Text-Only TRS-80 Model 4 from 1983
+2  -  Five Awesome C++ Papers for upcomming C++ standards
+2  -  Five Oracle Code One sessions you don't want to miss
+2  -  Gave my first conference talk! HTTP Caching 101. Would love any feedback
+2  -  Get openstreetmaps and cycle lanes?
+2  -  Getting started with React 360 and Elixir
+2  -  Git Catastrophes and Tips to Avoid Them
+2  -  Github List: 33 JS concepts Every Dev Should Know
+2  -  Github October 21 Incident Report
+2  -  Github: Major Service Outage
+2  -  Hacktoberfest, The Jargon File, and The Rosie Programming Language - Weekly Highlight
+2  -  Happy 10th birthday Stackoverflow (my alter alma mater)
+2  -  Hardware Interrupts | Writing an OS in Rust
+2  -  Hash Functions survival guide
+2  -  How Linux allows TCP introspection - The inner workings of `bind` and `listen`
+2  -  How We Sped Up Unit Test Performance by 10x at Qri
+2  -  How does Bcrypt and Devise work to keep your passwords safe?
+2  -  Idris 2 has Chez Scheme based backend
+2  -  Instabug SDK for iOS Customization Tips
+2  -  Introducing the Distance Field Generator
+2  -  Introduction to Gaussian Processes
+2  -  Is the Blockchain hype blocking reality ?
+2  -  It's not just you... GitHub.com freezes up as techies race to fix dead data storage gear
+2  -  Java Crypto Libraries Go Modular
+2  -  Jetbrains offer their entire suite of tools for free for any student in high-school or college.
+2  -  Kubernetes: deploy Laravel the easy way
+2  -  Learning Clojure: dependent types and contract-based programming
+2  -  MIT researchers say memory splitting breakthrough could prevent another Meltdown or Spectre
+2  -  Machine Learning Best Practices in PyTorch Dev Conference 2018
+2  -  Maintainable software: why would I care and once I do, how do I know I see one?
+2  -  Make with Ada Programming Contest: $5,000 First Prize
+2  -  Making a digital business card in 5 KB
+2  -  Mathematical structure of `git-bisect`
+2  -  Microservices Are Something You Grow Into, Not Begin With
+2  -  Minimal &amp; Modern boilerplate for building apps with React &amp; styled-components
+2  -  Minimum Viable Monitoring for Developers
+2  -  NWCPP - Walter Bright talks about the code smells in relation to his experience with compiler writing
+2  -  Of Checklists, Ethics, and Data (Interview)
+2  -  On the low adoption of automated testing in FOSS
+2  -  Open Croquet for Squeak 6.x (3D collaborative virtual reality in Smalltalk)
+2  -  Oracle Database 18c Express Edition "XE" is available
+2  -  Pattern Matching and Recursion
+2  -  Person Retrieval in Surveillance Video using Height, Color and Gender
+2  -  PostgreSQL 11 Released
+2  -  Powershell Everywhere
+2  -  QuantumKatas: Programming exercises for learning Q# and quantum computing
+2  -  RISC OS Open: News: RISC OS is open for business!
+2  -  Sparky - powerful pocket size task runner server in crontab style
+2  -  Step by Step content to learn Python programming from Scratch - FREE Tutorial
+2  -  Study: "[ACM] Code of ethics doesn't influence decisions of software developers"
+2  -  Sublemon: a Python library for asynchronously spawning, monitoring, and throttling concurrent subprocesses
+2  -  Swift will be the world's first general-purpose differentiable programming language
+2  -  Takeaways from annual StackOverflow’s Developer Report
+2  -  Technical Virtue Signaling
+2  -  The "await" operator, by example
+2  -  The Adam Test : A Few More Steps to Better Code
+2  -  The Hunch: 4 Times I Felt It And 1 When I Didn't, And What Were The Consequences
+2  -  The Joy of Haxe - FontStruct’s love affair with a neglected programming language
+2  -  The Road to Micronaut 1.0 - A JVM-Based Full-Stack Framework
+2  -  The most awesome CSS effect I have ever seen
+2  -  Thonny 3.0 (Python IDE for beginners)
+2  -  Time Series vs Logging vs Tracing
+2  -  Type Driven Program Synthesis
+2  -  Unit testing, you’re doing it wrong – Over the hill coder – Medium
+2  -  Update on Structured Concurrency
+2  -  Using Go modules? Forget 'go mod vendor', do it properly instead!
+2  -  Using Java Flight Recorder with OpenJDK 11
+2  -  Using WildFly Elytron JASPIC with Standalone Undertow
+2  -  Want to get more consulting clients? Stop Learning the Latest JS Framework
+2  -  WebAssembly’s post-MVP future: A cartoon skill tree
+2  -  What does Stack Overflow want to be when it grows up?
+2  -  While loop, for loop and if statement in R
+2  -  Writing Custom Aggregate Functions in SQL Just Like a Java 8 Stream Collector
+2  -  matchkin: Statically checked exhaustive matching for TypeScript [x-post from /r/typescript]
+2  -  ᚛ᚈᚑᚋ ᚄᚉᚑᚈᚈ᚜ and ᚛ᚑᚌᚐᚋ᚜
+1  -  3D-printing a stainless steel bridge full of sensors
+1  -  4 Things Developers Take for Granted That Used to Be Really Hard
+1  -  Announcing the GNU Kind Communication Guidelines
+1  -  Apply for a diversity place at Code Mesh LDN, the alternative programming conference! 08-09 Nov 18 - London, UK
+1  -  Best Practices For RESTful API
+1  -  Check out my github repo with presentations on advanced Python topics (metaclasses, descriptors, functional programming etc)
+1  -  Covariance and contravariance in subtyping
+1  -  Do one small thing to make a greater impact – Felix Clack – Medium
+1  -  ERRICHTO IS ON YOUTUBE!!!!! GOOGLE CODEJAM 18. RANK#2
+1  -  Elasticsearch bucket aggregations and faceted navigation
+1  -  Gihub Projects Statistics (VSCode as project with highest count of contributors, Microsoft as top committing organization)
+1  -  Girls Who Game Three Times More Likely to Study STEM, UK Research Finds
+1  -  GitLab 11.4 released with Merge Request Reviews and Feature Flags
+1  -  Github issues resolved
+1  -  God’s Programming Language With Philip Wadler [Podcast]
+1  -  Hack. Sleep. Repeat
+1  -  How to write narrative documentation
+1  -  Is AI the future?
+1  -  Java EE 8, JSON-B and java.util.Optional Serialization and Deserialization
+1  -  Listening to one's self (or stop cargo culting)
+1  -  Logical operators in R programming
+1  -  Microservice vs. dataservice architecture
+1  -  New in Kotlin 1.3: inline classes
+1  -  Test yourself how well you know Git
+1  -  The Configuration registry database is corrupt
+1  -  The Dark Side of MongoDB’s New License
+1  -  Thoughtbot have opened up Upcase to be free to all users!
+1  -  Top 300 ​books mentioned on stackoverflow.com
+1  -  Which Company Dominates the Social Media Landscape in 2018
+1  -  Why we believe in Wasm as the base layer of decentralised application development
+1  -  [Serious] Is this burnout or something else? Can't get myself to write a single line : cscareerquestions
+1  -  fossa-cli: Fast, portable and reliable dependency analysis for any codebase.

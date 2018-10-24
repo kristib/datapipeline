@@ -1,0 +1,66 @@
+
+d": "1 days",
+      "name": "Every 1 day",
+      "id": "DefaultSchedule",
+      "type": "Schedule",
+      "startAt": "FIRST_ACTIVATION_DATE_TIME"
+    },
+    {
+      "schedule": {
+        "ref": "DefaultSchedule"
+      },
+      "name": "FetchRedditData",
+      "id": "EmrActivityId_Ih9sg",
+      "runsOn": {
+        "ref": "ResourceId_ZlxCq"
+      },
+      "type": "ShellCommandActivity",
+      "command": "python /home/hadoop/fetch_to_s3.py"
+    },
+    {
+      "subnetId": "subnet-0113f82d",
+      "coreInstanceCount": "2",
+      "releaseLabel": "emr-5.17.0",
+      "masterInstanceType": "m4.large",
+      "type": "EmrCluster",
+      "terminateAfter": "4 Hours",
+      "bootstrapAction": "s3://testing-datapipe/code/bootstrap.sh",
+      "schedule": {
+        "ref": "DefaultSchedule"
+      },
+      "name": "SparkEMRCluster",
+      "coreInstanceType": "m4.large",
+      "keyPair": "kbaderkey2",
+      "id": "ResourceId_ZlxCq",
+      "applications": "Spark"
+    },
+    {
+      "failureAndRerunMode": "CASCADE",
+      "schedule": {
+        "ref": "DefaultSchedule"
+      },
+      "resourceRole": "DataPipelineDefaultResourceRole",
+      "role": "DataPipelineDefaultRole",
+      "pipelineLogUri": "s3://testing-datapipe/logs",
+      "scheduleType": "cron",
+      "name": "Default",
+      "id": "Default"
+    },
+    {
+      "schedule": {
+        "ref": "DefaultSchedule"
+      },
+      "dependsOn": {
+        "ref": "EmrActivityId_Ih9sg"
+      },
+      "name": "SparkCountPosts",
+      "step": "command-runner.jar,spark-submit,/home/hadoop/spark_count_posts.py,s3://testing-datapipe/data",
+      "runsOn": {
+        "ref": "ResourceId_ZlxCq"
+      },
+      "id": "EmrActivityId_Jl2bv",
+      "type": "EmrActivity"
+    }
+  ],
+  "parameters": []
+}
