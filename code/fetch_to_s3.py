@@ -6,8 +6,8 @@ from boto.s3.key import Key
 import json
 
 #authenticate and get the access token
-#get client id and secret by logging in to www.reddit.com/prefs/apps and create an app 
-client_auth = requests.auth.HTTPBasicAuth('', '')
+#create a client id and secret by logging in to www.reddit.com/prefs/apps and create an app
+client_auth = requests.auth.HTTPBasicAuth('', '') #TODO update with the client id and secret
 post_data = {"grant_type":"client_credentials"}
 headers = {"User-Agent": "ChangeMeClient/0.1 by YourUsername"}
 response = requests.post("https://www.reddit.com/api/v1/access_token", auth=client_auth, data=post_data, headers=headers)
