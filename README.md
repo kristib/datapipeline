@@ -1,5 +1,5 @@
 # datapipeline
-Sample project for building a datapipeline that requests posts from the Programming subreddit and outputs a report that lists how many days each post was in the top 100 
+Sample project for building a datapipeline that requests posts from the Programming subreddit, runs a spark job and outputs a report that lists how many days each post was in the top 100 
 
 To run this Data Pipeline:
 
