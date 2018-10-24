@@ -1,5 +1,25 @@
-
-d": "1 days",
+{
+  "objects": [
+    {
+      "schedule": {
+        "ref": "DefaultSchedule"
+      },
+      "dependsOn": {
+        "ref": "EmrActivityId_Ih9sg"
+      },
+      "name": "SparkCountPosts",
+      "step": "command-runner.jar,spark-submit,/home/hadoop/spark_count_posts.py,s3://testing-datapipe/data",
+      "runsOn": {
+        "ref": "ResourceId_ZlxCq"
+      },
+      "precondition": {
+        "ref": "PreconditionId_H82wW"
+      },
+      "id": "EmrActivityId_Kqcua",
+      "type": "EmrActivity"
+    },
+    {
+      "period": "1 days",
       "name": "Every 1 day",
       "id": "DefaultSchedule",
       "type": "Schedule",
@@ -16,6 +36,13 @@ d": "1 days",
       },
       "type": "ShellCommandActivity",
       "command": "python /home/hadoop/fetch_to_s3.py"
+    },
+    {
+      "role": "DataPipelineDefaultRole",
+      "name": "DataExists",
+      "id": "PreconditionId_H82wW",
+      "type": "S3PrefixNotEmpty",
+      "s3Prefix": "s3://testing-datapipe/data"
     },
     {
       "subnetId": "subnet-0113f82d",
@@ -45,21 +72,6 @@ d": "1 days",
       "scheduleType": "cron",
       "name": "Default",
       "id": "Default"
-    },
-    {
-      "schedule": {
-        "ref": "DefaultSchedule"
-      },
-      "dependsOn": {
-        "ref": "EmrActivityId_Ih9sg"
-      },
-      "name": "SparkCountPosts",
-      "step": "command-runner.jar,spark-submit,/home/hadoop/spark_count_posts.py,s3://testing-datapipe/data",
-      "runsOn": {
-        "ref": "ResourceId_ZlxCq"
-      },
-      "id": "EmrActivityId_Jl2bv",
-      "type": "EmrActivity"
     }
   ],
   "parameters": []
